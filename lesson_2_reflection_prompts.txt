@@ -1,4 +1,10 @@
 What happens when you initialized a repository? Why do you need to do it?
-    When you initialized a repo Git creates a .git file hidden in your workspace
-    And why i need to do it, it is because i need to work with my own commits
-   
+    
+	When you initialized a repo Git creates a .git file hidden in your workspace
+	And why i need to do it, it is because i need to work with my own commits
+
+How is the staging area different from the working directory and the repository? What value do you
+
+	The staging area is like the the midle point of your project where you can only add the snapshot 
+	files no the files perse and it is different from Git because it not contains neither the files
+	or the commits
