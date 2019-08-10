@@ -1,0 +1,4 @@
+What happens when you initialized a repository? Why do you need to do it?
+    When you initialized a repo Git creates a .git file hidden in your workspace
+    And why i need to do it, it is because i need to work with my own commits
+   
