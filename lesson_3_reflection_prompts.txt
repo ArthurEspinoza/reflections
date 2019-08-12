@@ -17,3 +17,8 @@ base.
   Clone: Clones everythin. If I will work with a teammate and he or she has the repo 
 already with some progress.
   Branches: To exxperiment with my project, or if i am testing a new feature.
+
+What is the benefit of having a copy of the last known state of the remote stored 
+locally?
+
+  Because you can always have a back-up
