@@ -7,3 +7,13 @@ stay-up-to-date with your remote respository?
 
   Because accidents always happen and maybe Git push things that maybe you may not want, 
 and if you dou manually you can always check what you are going to push
+
+Describe the differences between forks, clone, and branches. When would you use one 
+instead of another?
+
+  Forks: Only gives you the coppy of the repo but no pushing into the original. I only 
+use this for example if i want to use code from another person into my project, to have a 
+base.
+  Clone: Clones everythin. If I will work with a teammate and he or she has the repo 
+already with some progress.
+  Branches: To exxperiment with my project, or if i am testing a new feature.
