@@ -22,3 +22,10 @@ What is the benefit of having a copy of the last known state of the remote store
 locally?
 
   Because you can always have a back-up
+
+How would you collaborate without using Git or Github? What would be easier, and what 
+would be harder?
+
+  Maybe with a co-work folder in a cloud service, the easier is that everybody knows how 
+to work with that but having version and seek changes and progress of the team will be 
+much harder
